@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AWG101")(type "KiCad")(uri "${KIPRJMOD}/AWG101.pretty")(options "")(descr ""))
+)
